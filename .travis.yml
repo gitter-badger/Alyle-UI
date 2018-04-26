@@ -3,6 +3,7 @@ dist: trusty
 sudo: false
 node_js:
   - '9.7.0'
+  - '10'
 
 addons:
   chrome: stable
